@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Colored Hp-bar",
+    "keywords" : ["client"],
+    "author": "PsykoDev",
+    "options": {
+        "guiName": "Colored Hp-bar",
+        "cliName": "Colored Hp-bar"
+    },
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/Colored-Hp-bar/master"],
+    "supportUrl": "https://github.com/PsykoDev/Colored-Hp-bar/issues",
+    "description": "Colored Hp-bar"
+}
